@@ -1,0 +1,77 @@
+title: ./0xRar
+url: ""
+baseurl: ""
+
+# Add your profile picture
+profile_pic: "" 
+
+tracking_id: #
+
+footer: no
+footer_url: "https://github.com/0xRar"
+footer_text: "Ghostlyrar By 0xRar"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Contact"
+   link: "/contact"
+ - name: "Blog"
+   link: "/blog"
+ # - name: "Tags"
+ #   link: "/tags"
+
+# collections:
+#   tags:
+#     permalink: /tags/:name/
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  
+  # Line Numbers
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+plugins:
+  - jekyll-toc
+  - jekyll-feed
+
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
+
+feed:
+  path: /blog/feed.atom
