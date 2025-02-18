@@ -1,7 +1,8 @@
 ---
 title: Writeup for Cowboy World from DownUnder CTF 2021
 layout: post
-post-image: "https://user-images.githubusercontent.com/33517160/134820324-ed6ff6c0-8379-458a-977c-b07b77353067.png"
+image: "https://user-images.githubusercontent.com/33517160/134820324-ed6ff6c0-8379-458a-977c-b07b77353067.png"
+author: "0xRar"
 description: A writeup for the challenge Cowboy World from DownUnder CTF 2021.
 tags:
 - writeups
@@ -62,3 +63,4 @@ so i tried couple sqli login bypass payloads that contains single quotes using t
 ![Pasted image 20210924221939](https://user-images.githubusercontent.com/33517160/134733847-6e8fa801-7aed-4472-9823-cfd38f675f91.png)
 
 ## Flag: **`DUCTF{haww_yeeee_downunderctf?}`** 
+

@@ -1,4 +1,4 @@
-title: ./0xRar
+title: ./0xRar ⏭
 url: ""
 baseurl: ""
 
@@ -55,7 +55,7 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: true
+      line_numbers: false
       start_line: 1
 
 plugins:

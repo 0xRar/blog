@@ -1,7 +1,8 @@
 ---
 title: Writeup for the machine MonitorsTwo from Hackthebox 
 layout: post
-post-image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/5b428116-be28-4d87-a85e-2e157a45cdd0"
+image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/5b428116-be28-4d87-a85e-2e157a45cdd0"
+author: "0xRar"
 description: 
 tags: 
 - Writeups 

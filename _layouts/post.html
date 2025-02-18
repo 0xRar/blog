@@ -12,10 +12,10 @@ layout: default
           </p>
         </li>
       </div>
-      
+
       <p>Tags: 
         {% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a>
+    <a href="{{ site.baseurl }}/tags/{{ tag }}"></a>{{ tag }} <!-- tag is not hyperlinked for now -->
         {% endfor %}
       </p>
 

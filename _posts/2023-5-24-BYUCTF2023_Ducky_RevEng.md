@@ -1,7 +1,8 @@
 ---
 title: Writeups for Ducky1 & RevEnv from BYUCTF 2023 
 layout: post
-post-image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/ff77ab9f-d0a3-46e7-8d5f-18062af3a297"
+image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/ff77ab9f-d0a3-46e7-8d5f-18062af3a297"
+author: "0xRar"
 description: 
 tags:
 - Writeups

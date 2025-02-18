@@ -1,7 +1,8 @@
 ---
 title: Writeup for Frame from UIUCTF 2022
 layout: post
-post-image: "https://user-images.githubusercontent.com/33517160/183234305-6bcd4448-cacf-43e9-9df6-9fd167253cc9.png"
+image: "https://user-images.githubusercontent.com/33517160/183234305-6bcd4448-cacf-43e9-9df6-9fd167253cc9.png"
+author: "0xRar"
 description: Writeup for the web challenge Frame from UIUCTF 2022
 tags:
 - Writeups

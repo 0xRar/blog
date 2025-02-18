@@ -1,8 +1,8 @@
 ---
 title: WriteUp for Just Not My Type from Killer Queen 2021
 layout: post
-post-image: "https://user-images.githubusercontent.com/33517160/140023283-c2890a86-2539-45ea-869e-b11140f8acde.png
-"
+image: "https://user-images.githubusercontent.com/33517160/140023283-c2890a86-2539-45ea-869e-b11140f8acde.png"
+author: "0xRar"
 description: A Writeup for the challenge "Just Not My Type" from Killer Queen CTF 2021.
 tags:
 - writeups

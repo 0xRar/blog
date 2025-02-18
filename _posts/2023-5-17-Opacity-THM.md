@@ -1,7 +1,8 @@
 ---
 title: Writeup for the room Opacity from TryHackMe 
 layout: post
-post-image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/7bcdacf5-709f-4da9-a951-d37734f5a0fa"
+image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/7bcdacf5-709f-4da9-a951-d37734f5a0fa"
+author: "0xRar"
 description: 
 tags:
 - Writeups

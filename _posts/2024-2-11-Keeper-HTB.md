@@ -1,7 +1,8 @@
 ---
 title: Writeup for the machine Keeper from Hackthebox 
 layout: post
-post-image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/8cae3e0d-8b98-4199-9a19-eaac13f71caa"
+image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/8cae3e0d-8b98-4199-9a19-eaac13f71caa"
+author: "0xRar"
 tags:
 - Writeups
 - HackTheBox

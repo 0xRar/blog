@@ -1,7 +1,8 @@
 ---
 title: Kioptrix 1,2,3 Security Assessment Report
 layout: post
-post-image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/a21a02e8-e689-495a-97f5-1d0f20995424"
+image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/a21a02e8-e689-495a-97f5-1d0f20995424"
+author: "0xRar"
 description: Kioptrix 1,2,3 Security Assessment Report. 
 tags:
 - Writeups

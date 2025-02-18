@@ -1,7 +1,8 @@
 ---
 title: Writeup for Traveler from AtHack CTF Quals 2021
 layout: post
-post-image: "https://user-images.githubusercontent.com/33517160/142748375-b5c7f1ce-05bd-4f28-94e9-a6cffa822a96.png"
+image: "https://user-images.githubusercontent.com/33517160/142748375-b5c7f1ce-05bd-4f28-94e9-a6cffa822a96.png"
+author: "0xRar"
 description: A writeup for the web challenge Traveler from AtHack CTF Quals 2021.
 tags:
 - writeups

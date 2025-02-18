@@ -1,7 +1,8 @@
 ---
 title: Discord Phishing Link Analysis
 layout: post
-post-image: "https://user-images.githubusercontent.com/33517160/149678693-7b1dd64a-61d8-4f45-8a3a-fb972352f141.png"
+image: "https://user-images.githubusercontent.com/33517160/149678693-7b1dd64a-61d8-4f45-8a3a-fb972352f141.png"
+author: "0xRar"
 description: Analysis of a phishing link being shared in discord currently 
 tags:
 - DFIR
