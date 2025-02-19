@@ -1,7 +1,7 @@
 ---
 title: Writeup for the machine Cicada from Hackthebox
 layout: post
-image: ""
+image: "https://github.com/user-attachments/assets/2203f6e0-7931-4a60-bde6-b49f56c226e6"
 author: "0xRar"
 tags:
 - Writeups
