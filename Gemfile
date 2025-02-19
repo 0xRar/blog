@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+gem "github-pages", "~> 230"
+
 gem "jekyll", "~> 4.3"
 
 gem "rouge", "~> 4.2"
