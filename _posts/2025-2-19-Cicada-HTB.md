@@ -10,7 +10,7 @@ tags:
 - Active Directory
 ---
 
-Hello Hacker Friends, Hope everything is well, i was a bit shocked when i saw that the cicada machines was AD its been a while
+Hello Hacker Friends, Hope everything is well, i was a bit shocked when i saw that the cicada machine was AD its been a while
 and since i was studying AD myself it was a perfect chance to learn new things and take notes, enjoy!.
 
 ## Initial Enumeration
