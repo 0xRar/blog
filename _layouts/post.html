@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% if page.image %}
+  <img src="{{ page.image }}">
+{% endif %}
+
 <div class="container content"> 
   <h1 class="post-title">{{ page.title }}</h1>
       <div class="post-info">
