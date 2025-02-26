@@ -239,7 +239,7 @@ SeChangeNotifyPrivilege       Bypass traverse checking       Enabled
 SeIncreaseWorkingSetPrivilege Increase a process working set Enabled
 ```
 
-### Abusing `SeBackupPrivilege`:
+### Abusing SeBackupPrivilege:
 Firstly the `SeBackupPrivilege` is a user privilge that allows a specific user to bypass
 file system permissions.
 
