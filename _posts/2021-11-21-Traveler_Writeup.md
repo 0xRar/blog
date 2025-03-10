@@ -11,7 +11,6 @@ tags:
 - AtHack
 ---
 
-# Writeup for the challenge **_`Traveler`_** from AtHack CTF Quals 2021
 ----
 - ## Challenge Information:
 
