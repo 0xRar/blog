@@ -1,7 +1,7 @@
 ---
 title: Read Before You Run
 layout: post
-image: "https://github.com/user-attachments/assets/b557e57a-6c9c-48e7-95e2-c3c3af623275"
+image: "https://github.com/user-attachments/assets/134d2ea9-008e-4574-a909-45afd901265e"
 author: "0xRar"
 description: "Read the freaking code!, a post about how code literecy can also effect technical people."
 tags:
