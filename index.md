@@ -30,7 +30,7 @@ Profiles:
 ## Related Interests
 
 1. Offensive Security
-    - Penetration Testing (Web, Network)
+    - Penetration Testing (Web, Network, Android Apps)
     - Bug Hunting (Security Researching)
     - Exploit Development
     - (New!) Malware Developement
@@ -45,6 +45,7 @@ Profiles:
 
 ## Certifications
 
+- CMPen-Android - Certified Mobile Pentester (Android) [Secops Group](https://pentestingexams.com/product/certified-mobile-pentester-cmpen-android/){:target="_blank"}
 - eWPT - Web Application Penetration Tester from [INE Security](https://security.ine.com/certifications/ewpt-certification/){:target="_blank"}
 - eJPT - Junior Penetration Tester from [INE Security](https://security.ine.com/certifications/ejpt-certification/){:target="_blank"}
 
