@@ -22,7 +22,7 @@ body {
     font-family: 'Poppins', sans-serif;
     color: $text;
     height: 100%; 
-    font-size: 1.2em;
+    font-size: 1.7rem;
 }
 a {
     text-decoration: none;
@@ -86,6 +86,7 @@ hr {
 .wrapper {
     min-height: 100%;
     word-break: break-word;
+    text-justify: inter-word;
 }
 
 .icons {
@@ -115,7 +116,11 @@ hr {
 }
 
 .posts > a {
-  margin-left: $post-margin-left;
+    margin-left: $post-margin-left;
+}
+
+#post-container-title {
+    font-size: 2rem;
 }
 
 .post-title {
@@ -163,6 +168,7 @@ hr {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+        padding: 1em;
     }
 }
 
@@ -201,6 +207,9 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+        .post-title {
+            font-size: 2rem;
+        }
 }
 
 @import "typography";

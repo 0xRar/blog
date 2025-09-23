@@ -7,7 +7,7 @@ layout: default
     <ul>
     {% for post in site.posts %}
     <li class="posts">
-        <a href="{{ post.url }}">{{ post.title }}</a><br>
+        <a id="post-container-title" href="{{ post.url }}">{{ post.title }}</a><br>
         <i class="post-date">Published: {{ post.date | date: "%-B %d, %Y" }}</i>
         <br> 
         <p id="post-author">By <b>{{ post.author }}</b></p>
