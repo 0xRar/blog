@@ -2,7 +2,6 @@
 title: "Inside a Phishing Attempt: Technical Breakdown of a Spoofed Email"
 description: "Someone tried to phish me using a spoofed  email!"
 layout: post
-image: ""
 author: "0xRar"
 tags:
 - CTI
@@ -22,7 +21,7 @@ where they send an email with a forged sender to make it look like it came from 
 sender, this is possible because SMTP(`Simple Mail Transfer Protocol`) does not have a 
 feature that authenticates email addresses.
 
-<img width="1207" height="708" src="https://github.com/user-attachments/assets/ee9ffec8-0555-4a4b-9948-41b61d319126" />
+<img src="https://cdn.jsdelivr.net/gh/0xRar/blog@main/assets/blog-posts-content/inside-a-phishing-attempt/email-img.png" />
 
 ## Technical Details
 
@@ -60,7 +59,7 @@ did not pass SPF (Sender Policy Framework) or DKIM (DomainKeys Identified Mail),
 the DMARC policy was set to `p=none` protonmail will not block or quarantine which is the
 reason it made it through to my inbox and not junk/spam folder.
 
-<img src="https://github.com/user-attachments/assets/e3002a74-d941-41cf-8cfd-92005bad823e" />
+<img src="https://cdn.jsdelivr.net/gh/0xRar/blog@main/assets/blog-posts-content/inside-a-phishing-attempt/DMARC-Infographic.png" />
 
 As you can see here the `smtp.mailfrom=86e835319c.nxcli.io` is pointed to a subdomain under
 nxcli.io which is not controlled by nexcess its actually controlled by the threat actor
@@ -78,12 +77,12 @@ which is what smtp works on.
 The email content is as basic as it may sound, just some text to scare you enough to click
 the button and open the url.
 
-<img width="1111" height="677" src="https://github.com/user-attachments/assets/d670e1d6-49d2-4ea0-8d5a-710ce87b800b" />
+<img src="https://cdn.jsdelivr.net/gh/0xRar/blog@main/assets/blog-posts-content/inside-a-phishing-attempt/email-content.png" />
 
 Would've really loved analyzing it further but its redirecting me to a page on an iranian website 
 thats returning 404 Not Found Status Code.
 
-<img width="956" height="796" src="https://github.com/user-attachments/assets/a9d2881f-9a4c-4c58-9588-fbdbc3b320fb" />
+<img src="https://cdn.jsdelivr.net/gh/0xRar/blog@main/assets/blog-posts-content/inside-a-phishing-attempt/wheregoes.png" />
 
 ## Prevention
 - To prevent email spoofing you would need to publish SPF, enable DKIM signing,
